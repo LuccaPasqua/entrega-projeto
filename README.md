@@ -40,8 +40,8 @@ Este projeto é um sistema de controle de vendas com interface gráfica (GUI) fe
 ## 🚀 Como Executar
 
 1. Clone este repositório.
-2. Execute o TelaCliente para ter a interface do cliente
-3. Execute o TelaGerente para ter a interface do gerente
+2. Execute com : mercadinho-entrega % java -cp "dist/JavaMercado.jar:dist/mysql-connector-j-9.3.0.jar" ui.TelaInicial
+ 
 
 ## Authores
 Desenvolvido por Lucca Della Pasqua e Luiz Massing.
